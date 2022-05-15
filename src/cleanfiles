@@ -1,0 +1,4 @@
+suggested_attributes = rw-r-r-
+hard_signs = :'".;*?$#`|\
+hard_substitute = _
+temporal_extensions = tmp
